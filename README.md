@@ -1,3 +1,4 @@
+
 # Explainable Multi-Task Learning for Diabetic Retinopathy Stage & Blindness Risk
 
 A deep learning model that, given a single retina fundus image, jointly predicts:
@@ -134,3 +135,4 @@ Kaggle/Colab and downloaded into `checkpoints/best_model.keras`.
   labeled data is available.
 - Merge IDRiD's DME grade into a stricter, multi-factor risk label.
 - Deploy as a batch pipeline: GPS-tagged images → route-level risk heatmap.
+=======
